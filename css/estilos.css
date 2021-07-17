@@ -1,7 +1,11 @@
 body
 
 {
-    color: deeppink;
-    text-align: center;
-    font-family: "Arial";
+    color: blue;
+    text-align: left;
+    font-family: "times";
+    margin: auto solid ;
+    border: deepskyblue;
+    padding: 10%;
+    border-top: 20px;
 }
