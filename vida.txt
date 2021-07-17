@@ -1,3 +1,12 @@
 naci el 10 de mayo de 1991
 
 vivi en caracas 10 años
+
+
+let a = " gay";
+
+var juego = function(a){
+    if (a === " gay"){
+        return true;
+    }
+}
