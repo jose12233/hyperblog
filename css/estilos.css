@@ -1,11 +1,11 @@
 body
 
 {
-    color: blue;
+    color: red;
     text-align: left;
     font-family: "times";
     margin: auto solid ;
-    border: deepskyblue;
+    border: deepskyblue solid 2px;
     padding: 10%;
     border-top: 20px;
 }
